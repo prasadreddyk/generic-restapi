@@ -1,2 +1,2 @@
 # generic-restapi
-search, ordering, generating pdf code is there
+change directory to Movie_list, run command python manage.py runserver. Click on url in the brower it will all url. For posting data type movie,for deleting and updating data type update/1 it will particular id ther we can edit and delete data.for serach type search on right top filter is there .Click on that there it will show search with title. For ordering type in url bar Ordering .for type pdf in url bar it ask for downloading pdf .in that pdf list of movies is there.
